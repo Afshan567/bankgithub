@@ -7,6 +7,7 @@ public class InboxTest {
 public void inbx()
 {
 	System.out.println("inbox script");
-	
+		System.out.println("inbox script 2");
+
 }
 }
